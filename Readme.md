@@ -20,8 +20,8 @@ This is an interactive quiz platform built with Vite, React, and TypeScript. It 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/interactive-quiz-platform.git
-cd interactive-quiz-platform
+git https://github.com/Yeshwanth281/Quiz-Platform.git
+cd Quiz-Platform
 ```
 2. Install the dependencies:
 
