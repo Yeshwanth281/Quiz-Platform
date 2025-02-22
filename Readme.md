@@ -1,5 +1,8 @@
 # Interactive Quiz Platform
 
+🔗 **[Visit the Website](https://quiz-platform-lemon.vercel.app/)**  
+
+
 This is an interactive quiz platform built with Vite, React, and TypeScript. It features a timer for each question, and a history of previous quiz attempts.
 
 ## Features
