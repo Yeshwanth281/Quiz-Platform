@@ -29,4 +29,4 @@ cd Quiz-Platform
 npm install
 npm run dev
 ```
-This will start the Vite development server. Open your browser and navigate to http://localhost:3000 to see the application.
+This will start the Vite development server. Open your browser and navigate to http://localhost:5173 to see the application.
